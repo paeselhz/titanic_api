@@ -1,4 +1,4 @@
-
+setwd("/titanic_api/")
 #* @apiTitle API sobrevivência TITANIC
 
 #* Echo back the input
